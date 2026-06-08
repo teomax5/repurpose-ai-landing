@@ -9,7 +9,7 @@ export default function sitemap() {
       lastModified: new Date(),
     },
     {
-      url: "https://repurpose-ai-landing.vercel.appm/privacy",
+      url: "https://repurpose-ai-landing.vercel.app/privacy",
       lastModified: new Date(),
     },
   ];
