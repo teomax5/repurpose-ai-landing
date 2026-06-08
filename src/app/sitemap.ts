@@ -1,15 +1,15 @@
 export default function sitemap() {
   return [
     {
-      url: "https://yourdomain.com",
+      url: "https://repurpose-ai-landing.vercel.app",
       lastModified: new Date(),
     },
     {
-      url: "https://yourdomain.com/contact",
+      url: "https://repurpose-ai-landing.vercel.app/contact",
       lastModified: new Date(),
     },
     {
-      url: "https://yourdomain.com/privacy",
+      url: "https://repurpose-ai-landing.vercel.appm/privacy",
       lastModified: new Date(),
     },
   ];
