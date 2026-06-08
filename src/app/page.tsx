@@ -11,7 +11,7 @@ export default function Home() {
         <h1 className="text-5xl md:text-7xl font-bold mt-8">
           Turn One Blog Into
           <span className="block text-black-600">
-            20+ Pieces of Content
+            Many Pieces of Content
           </span>
         </h1>
 
